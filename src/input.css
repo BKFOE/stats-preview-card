@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .stats{
+        @apply font-bold text-2xl text-white 
+    }
+
+    .stats-heading{
+        @apply font-subH1 text-xs text-white/60 uppercase pt-1.5
+    }
+}
