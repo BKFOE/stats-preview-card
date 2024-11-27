@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://www.frontendmentor.io/solutions/stats-preview-card-component-_YTF71UDR1)
-- Live Site URL: [](https://bkfoe.github.io/stats-preview-card)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/stats-preview-card-component-_YTF71UDR1)
+- Live Site URL: [Live Site](https://bkfoe.github.io/stats-preview-card)
 
 ## Author
 
